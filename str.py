@@ -3,7 +3,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 
 # Set your API key environment variable
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyC2SogygWzqa4F5N2Dxtiw8bopsXDTxlPU'
+os.environ['GOOGLE_API_KEY'] = 'Enter you Google API Key'
 
 # Title of the Streamlit app
 st.title('Ask Your Question')
